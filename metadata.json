@@ -1,0 +1,8 @@
+{
+  "name": "Rojal Bajracharya Portfolio",
+  "description": "A modern, responsive single-page personal portfolio for Rojal Bajracharya, Digital Marketer and AI Marketing Learner based in Kathmandu, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
